@@ -1,0 +1,9 @@
+com\example\msinventario\config\OpenApiConfig.class
+com\example\msinventario\repository\StockRepository.class
+com\example\msinventario\security\jwt\JwtService.class
+com\example\msinventario\security\config\SecurityConfig.class
+com\example\msinventario\MsInventarioApplication.class
+com\example\msinventario\model\Stock.class
+com\example\msinventario\security\filter\JwtAuthFilter.class
+com\example\msinventario\controller\StockController.class
+com\example\msinventario\service\StockService.class

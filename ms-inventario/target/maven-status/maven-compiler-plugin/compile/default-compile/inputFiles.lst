@@ -1,0 +1,9 @@
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\ms-inventario\src\main\java\com\example\msinventario\config\OpenApiConfig.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\ms-inventario\src\main\java\com\example\msinventario\controller\StockController.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\ms-inventario\src\main\java\com\example\msinventario\model\Stock.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\ms-inventario\src\main\java\com\example\msinventario\MsInventarioApplication.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\ms-inventario\src\main\java\com\example\msinventario\repository\StockRepository.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\ms-inventario\src\main\java\com\example\msinventario\security\config\SecurityConfig.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\ms-inventario\src\main\java\com\example\msinventario\security\filter\JwtAuthFilter.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\ms-inventario\src\main\java\com\example\msinventario\security\jwt\JwtService.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\ms-inventario\src\main\java\com\example\msinventario\service\StockService.java
