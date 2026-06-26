@@ -1,0 +1,4 @@
+com\example\ms_user\JwtServiceTest.class
+com\example\ms_user\MsUserApplicationTests.class
+com\example\ms_user\AuthControllerTest.class
+com\example\ms_user\UserServiceTest.class
