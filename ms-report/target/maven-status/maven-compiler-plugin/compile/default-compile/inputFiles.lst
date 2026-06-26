@@ -1,0 +1,9 @@
+C:\Users\julio\OneDrive\Escritorio\ms-report\src\main\java\com\example\msreport\config\OpenApiConfig.java
+C:\Users\julio\OneDrive\Escritorio\ms-report\src\main\java\com\example\msreport\controller\ReportController.java
+C:\Users\julio\OneDrive\Escritorio\ms-report\src\main\java\com\example\msreport\model\Report.java
+C:\Users\julio\OneDrive\Escritorio\ms-report\src\main\java\com\example\msreport\MsReportApplication.java
+C:\Users\julio\OneDrive\Escritorio\ms-report\src\main\java\com\example\msreport\repository\ReportRepository.java
+C:\Users\julio\OneDrive\Escritorio\ms-report\src\main\java\com\example\msreport\security\config\SecurityConfig.java
+C:\Users\julio\OneDrive\Escritorio\ms-report\src\main\java\com\example\msreport\security\filter\JwtAuthFilter.java
+C:\Users\julio\OneDrive\Escritorio\ms-report\src\main\java\com\example\msreport\security\jwt\JwtService.java
+C:\Users\julio\OneDrive\Escritorio\ms-report\src\main\java\com\example\msreport\service\ReportService.java

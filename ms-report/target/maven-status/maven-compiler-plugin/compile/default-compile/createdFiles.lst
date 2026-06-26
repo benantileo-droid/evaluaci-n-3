@@ -1,0 +1,10 @@
+com\example\msreport\controller\ReportController.class
+com\example\msreport\repository\ReportRepository.class
+com\example\msreport\security\jwt\JwtService.class
+com\example\msreport\security\filter\JwtAuthFilter.class
+com\example\msreport\model\Report$ReportBuilder.class
+com\example\msreport\MsReportApplication.class
+com\example\msreport\security\config\SecurityConfig.class
+com\example\msreport\model\Report.class
+com\example\msreport\config\OpenApiConfig.class
+com\example\msreport\service\ReportService.class
