@@ -1,0 +1,4 @@
+com\example\productos\ProductosApplicationTests.class
+com\example\productos\ProductoServiceTest.class
+com\example\productos\ProductoControllerEdgeCasesTest.class
+com\example\productos\ProductoControllerTest.class

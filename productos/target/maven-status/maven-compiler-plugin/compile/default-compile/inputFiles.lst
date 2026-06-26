@@ -1,0 +1,9 @@
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\productos\src\main\java\com\example\productos\config\OpenApiConfig.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\productos\src\main\java\com\example\productos\controller\ProductoController.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\productos\src\main\java\com\example\productos\model\Producto.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\productos\src\main\java\com\example\productos\ProductosApplication.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\productos\src\main\java\com\example\productos\repository\ProductoRepository.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\productos\src\main\java\com\example\productos\security\config\SecurityConfig.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\productos\src\main\java\com\example\productos\security\filter\JwtAuthFilter.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\productos\src\main\java\com\example\productos\security\jwt\JwtService.java
+C:\Users\MP-Alumno\Desktop\Proyecto_con_dockerfiles\Proyecto sin docker\productos\src\main\java\com\example\productos\service\ProductoService.java
