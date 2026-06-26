@@ -1,0 +1,9 @@
+C:\Users\julio\OneDrive\Escritorio\ms-computer\src\main\java\com\example\mscomputer\config\OpenApiConfig.java
+C:\Users\julio\OneDrive\Escritorio\ms-computer\src\main\java\com\example\mscomputer\controller\ComputerController.java
+C:\Users\julio\OneDrive\Escritorio\ms-computer\src\main\java\com\example\mscomputer\model\Computer.java
+C:\Users\julio\OneDrive\Escritorio\ms-computer\src\main\java\com\example\mscomputer\MsComputerApplication.java
+C:\Users\julio\OneDrive\Escritorio\ms-computer\src\main\java\com\example\mscomputer\repository\ComputerRepository.java
+C:\Users\julio\OneDrive\Escritorio\ms-computer\src\main\java\com\example\mscomputer\security\config\SecurityConfig.java
+C:\Users\julio\OneDrive\Escritorio\ms-computer\src\main\java\com\example\mscomputer\security\filter\JwtAuthFilter.java
+C:\Users\julio\OneDrive\Escritorio\ms-computer\src\main\java\com\example\mscomputer\security\jwt\JwtService.java
+C:\Users\julio\OneDrive\Escritorio\ms-computer\src\main\java\com\example\mscomputer\service\ComputerService.java
