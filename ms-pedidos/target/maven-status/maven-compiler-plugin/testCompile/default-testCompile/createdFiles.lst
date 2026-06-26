@@ -1,0 +1,4 @@
+com\example\mspedidos\MsPedidosApplicationTests.class
+com\example\mspedidos\PedidoServiceRestTemplateTest.class
+com\example\mspedidos\PedidoServiceTest.class
+com\example\mspedidos\PedidoControllerTest.class

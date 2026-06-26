@@ -1,0 +1,12 @@
+com\example\mspedidos\security\config\SecurityConfig.class
+com\example\mspedidos\dto\PedidoRequestDTO.class
+com\example\mspedidos\dto\ItemPedidoDTO.class
+com\example\mspedidos\service\PedidoService.class
+com\example\mspedidos\model\DetallePedido.class
+com\example\mspedidos\config\OpenApiConfig.class
+com\example\mspedidos\security\jwt\JwtService.class
+com\example\mspedidos\MsPedidosApplication.class
+com\example\mspedidos\model\Pedido.class
+com\example\mspedidos\controller\PedidoController.class
+com\example\mspedidos\repository\PedidoRepository.class
+com\example\mspedidos\security\filter\JwtAuthFilter.class
