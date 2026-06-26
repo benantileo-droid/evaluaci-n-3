@@ -1,0 +1,9 @@
+C:\Users\julio\OneDrive\Escritorio\ms-review\src\main\java\com\example\msreview\config\OpenApiConfig.java
+C:\Users\julio\OneDrive\Escritorio\ms-review\src\main\java\com\example\msreview\controller\ReviewController.java
+C:\Users\julio\OneDrive\Escritorio\ms-review\src\main\java\com\example\msreview\model\Review.java
+C:\Users\julio\OneDrive\Escritorio\ms-review\src\main\java\com\example\msreview\MsReviewApplication.java
+C:\Users\julio\OneDrive\Escritorio\ms-review\src\main\java\com\example\msreview\repository\ReviewRepository.java
+C:\Users\julio\OneDrive\Escritorio\ms-review\src\main\java\com\example\msreview\security\config\SecurityConfig.java
+C:\Users\julio\OneDrive\Escritorio\ms-review\src\main\java\com\example\msreview\security\filter\JwtAuthFilter.java
+C:\Users\julio\OneDrive\Escritorio\ms-review\src\main\java\com\example\msreview\security\jwt\JwtService.java
+C:\Users\julio\OneDrive\Escritorio\ms-review\src\main\java\com\example\msreview\service\ReviewService.java

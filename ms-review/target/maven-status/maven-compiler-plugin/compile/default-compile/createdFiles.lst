@@ -1,0 +1,10 @@
+com\example\msreview\MsReviewApplication.class
+com\example\msreview\service\ReviewService.class
+com\example\msreview\model\Review.class
+com\example\msreview\config\OpenApiConfig.class
+com\example\msreview\controller\ReviewController.class
+com\example\msreview\repository\ReviewRepository.class
+com\example\msreview\security\jwt\JwtService.class
+com\example\msreview\model\Review$ReviewBuilder.class
+com\example\msreview\security\config\SecurityConfig.class
+com\example\msreview\security\filter\JwtAuthFilter.class
